@@ -7,10 +7,10 @@
   <a href="mailto:business@mstonjek.cz">
     <img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" width="50" title="Gmail">
   </a>
-  <a href="https://www.linkedin.com/in/patrickguo/">
+  <a href="#">
     <img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" width="50" title="LinkedIn">
   </a>
-  <a href="https://open.spotify.com/user/12136002437?si=4e8d774530354a68">
+  <a href="#">
     <img src="https://img.icons8.com/doodle/96/000000/spotify.png" width="50" title="Spotify">
   </a>
 </p>
@@ -21,10 +21,6 @@
   <img alt="JavaScript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" title="JavaScript">
   <img alt="HTML5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50" title="HTML">
   <img alt="CSS" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50" title="CSS">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="50" title="Jupyter">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" title="Django">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="50" title="AWS">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL">
 </p>
 
 <!-- GitHub Stats -->
