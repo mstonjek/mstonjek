@@ -34,8 +34,7 @@
 <!-- Skills Section -->
 <p align="center">
   <img alt="Python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50" title="Python">
-  <img alt="React" src="![image](https://github.com/mstonjek/mstonjek/assets/127975025/dd31abc8-2df5-49b7-9a56-4587de04b341)
-" width="50" title="React">
+  <img alt="React" src="https://github.com/mstonjek/mstonjek/blob/main/physics.gif" width="50" title="React">
   <img alt="HTML5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50" title="HTML">
   <img alt="CSS" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50" title="CSS">
 </p>
