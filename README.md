@@ -1,11 +1,18 @@
 <h1 align="center">Hi there! 👋 Thanks for stopping by my profile!</h1>
 
 
-
 <!-- Socials with Links -->
 <p align="center">
+
+
   <a href="mailto:business@mstonjek.cz">
     <img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" width="50" title="Gmail">
+  </a>
+   <a href="#">
+    <img width="48" height="48" src="https://img.icons8.com/doodle/48/instagram--v1.png" alt="Instagram"/>
+  </a>
+   <a href="#">
+   <img width="48" height="48" src="https://img.icons8.com/doodle/48/globe--v1.png" alt="globe--v1"/>
   </a>
   <a href="#">
     <img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" width="50" title="LinkedIn">
@@ -13,7 +20,15 @@
   <a href="#">
     <img src="https://img.icons8.com/doodle/96/000000/spotify.png" width="50" title="Spotify">
   </a>
+  <a href="#">
+    <img width="48" height="48" src="https://img.icons8.com/doodle/48/twitter-circled.png" alt="twitter-circled"/>
+  </a>
+ 
+    
+  
+  
 </p>
+<iframe src="https://giphy.com/embed/h26Xq74oRNJiiT6Qdx" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe> 
 
 <!-- Skills Section -->
 <p align="center">
