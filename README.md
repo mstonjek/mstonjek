@@ -70,8 +70,9 @@
   <h1 align="center">📊 Unveiling My Magical Stats and Feats! ⚔️🔮</h1>
 </p>
 <p align="center">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mstonjek&show_icons=true&theme=dark&hide=issues&hide_border=true&hide_title=true&count_private=true">
+  
   <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mstonjek&layout=compact&langs_count=8&theme=dark&hide_border=true">
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mstonjek&show_icons=true&theme=dark&hide=issues&hide_border=true&hide_title=true&count_private=true">
    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mstonjek&theme=dark&hide_border=true">
 </p>
 
