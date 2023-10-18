@@ -1,7 +1,16 @@
 <h1 align="center">Greetings, wanderer! 🐺 Venture into my profile, if you dare! 🗡️</h1>
-<p align=center>
+
+<p align="center">
+  <em style="color: gray;">"Evil is evil. Lesser, greater, middling, it's all the same."</em>
+</p>
+
+
+
+<p align="center">
   <img src="https://media2.giphy.com/media/l4eKJc1iZBxfCtgKGb/giphy.gif?cid=ecf05e472mv23e8im8omxxxzj5rti91iasohcnm8s15qb2ig&ep=v1_gifs_search&rid=giphy.gif&ct=g" width=500px title="Hi, nice to meet you!">
 </p>
+
+
 
 <p align="center">
   🐘 Hey there! I'm a 15-year-old PHP web developer with a passion for coding and launching exciting projects. 🚀 <br/>
@@ -30,10 +39,6 @@
   <a href="#">
     <img width="48" height="48" src="https://img.icons8.com/doodle/48/twitter-circled.png" alt="twitter-circled"/>
   </a>
- 
-   
-  
-  
 </p>
 
 
