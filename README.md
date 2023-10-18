@@ -24,19 +24,19 @@
   <a href="mailto:business@mstonjek.cz">
     <img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" width="50" title="Gmail">
   </a>
-   <a href="#">
+   <a href="https://www.instagram.com/mstonjek/">
     <img width="48" height="48" src="https://img.icons8.com/doodle/48/instagram--v1.png" alt="Instagram"/>
   </a>
-   <a href="#">
+   <a href="https://www.mstonjek.cz/">
    <img width="48" height="48" src="https://img.icons8.com/doodle/48/globe--v1.png" alt="globe--v1"/>
   </a>
   <a href="#">
     <img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" width="50" title="LinkedIn">
   </a>
-  <a href="#">
+  <a href="https://open.spotify.com/user/89sz0xezy51zw3ij6iyc8u897?si=ae173cd1e2fd429a">
     <img src="https://img.icons8.com/doodle/96/000000/spotify.png" width="50" title="Spotify">
   </a>
-  <a href="#">
+  <a href="https://twitter.com/MStonjek">
     <img width="48" height="48" src="https://img.icons8.com/doodle/48/twitter-circled.png" alt="twitter-circled"/>
   </a>
 </p>
