@@ -13,7 +13,7 @@
 
 
 <p align="center">
-  🐘 Hey there! I'm a 15-year-old PHP web developer with a passion for coding and launching exciting projects. 🚀 <br/>
+  🐘 Hey there! I'm a 16-year-old PHP web developer with a passion for coding and launching exciting projects. 🚀 <br/>
   ☄ Proudly carrying Czech blood! 🩸 <br/>
   🌐 Let's connect and share the love for technology and creativity! 🤝💻🔗
 </p>
